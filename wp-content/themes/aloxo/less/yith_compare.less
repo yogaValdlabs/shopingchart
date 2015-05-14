@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 5, 2015, 1:29:07 PM
+    Author     : Tuannv
+*/
+@import "config.less";
+
+table.compare-list thead th, h1 {
+	background:  #fff;
+	color:       @thim_body_primary_color;
+	padding:     12px 16px;
+	border:      1px solid @thim_body_primary_color;
+	display:     block;
+	margin:      10px;
+	font-weight: normal;
+}
+
+table.compare-list .stock td span {
+	color: @thim_body_primary_color;
+}
+
+table.compare-list tr.description td {
+	padding: 10px;
+}
+
+table.compare-list tr.title td {
+	text-transform: none;
+	font-family:    @thim_font_title_font_family;
+	font-size:      16px;
+}
+
+table.compare-list td img {
+	margin-bottom: 0px;
+}
+
+table.compare-list .add-to-cart td a {
+	padding:        7px 20px;
+	text-transform: none;
+	background:     @thim_body_primary_color;
+	&:hover {
+		background: #181818;
+		opacity:    1;
+	}
+}
+
+table.compare-list tr.price td {
+	.amount {
+		font-size:   16px !important;
+		color:       #ff8182 !important;
+		font-weight: bold;
+	}
+	del {
+		.amount {
+			font-size:   14px !important;
+			font-weight: normal;
+			color:       #333;
+		}
+	}
+}
+
+table.compare-list .price td {
+	text-decoration: none;
+	ins {
+		text-decoration: none;
+	}
+}
+
+table.compare-list th {
+	padding-left: 15px;
+}
+
+.dataTables_wrapper {
+	margin: 0 10px;
+}

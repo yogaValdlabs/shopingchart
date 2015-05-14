@@ -1,0 +1,229 @@
+/**
+ * Widgets
+ * -----------------------------------------------------------------------------
+ */
+.widget-area {
+	aside {
+		overflow:      hidden;
+		a {
+			color: @black;
+		}
+
+		margin-bottom: 30px;
+		.widget-title {
+			text-transform: uppercase;
+			margin:         0 0 15px 0;
+			padding-bottom: 20px;
+			display:        inline-block;
+			position:       relative;
+			&:after {
+				display:    block;
+				content:    "";
+				position:   absolute;
+				width:      500%;
+				height:     1px;
+				background: #c8d3da;
+				top:        100%;
+				left:       100%;
+			}
+		}
+		ul li {
+			padding-top:    8px;
+			padding-bottom: 8px;
+			list-style:     none;
+		}
+		select {
+			max-width: 100%;
+		}
+	}
+
+	/* search */
+	.search-form {
+		position: relative;
+		&:after {
+			content:     "\f002";
+			font-family: 'FontAwesome';
+			position:    absolute;
+			right:       10px;
+			top:         7px;
+			color:       #cccccc;
+		}
+		label {
+			width:       100%;
+
+			display:     inline-block;
+			font-weight: normal;
+			.screen-reader-text {
+				display: none
+			}
+			.search-field {
+				width:         100%;
+				border-radius: 0;
+				box-shadow:    none;
+			}
+			.search-submit {
+				margin-left:  0px;
+				margin-right: 0px;
+			}
+		}
+		.search-submit {
+			display: none;
+
+			margin:  0;
+			padding: 0 16px;
+		}
+	}
+}
+
+/* End Widgets */
+
+/**************search v2**************/
+#header-search-form-input {
+	position: absolute;
+	top:      0;
+	left:     0;
+	display:  none;
+	width:    100%;
+	height:   100%;
+}
+
+#header-search-form-input input {
+	width:       100%;
+	z-index:     9999;
+	border:      none;
+	height:      100%;
+	font-size:   40px;
+	background:  transparent;
+	padding:     0px 25px;
+	color:       inherit;
+	box-shadow:  none;
+	font-weight: 500;
+}
+
+.ob_list_search {
+	z-index:      99999;
+	position:     relative;
+	background:   #181818;
+	padding:      0 20px;
+	overflow:     hidden;
+	margin-left:  15px;
+	margin-right: 15px;
+	li {
+		list-style: none;
+		margin:     10px 0;
+		a {
+			color: #fff;
+		}
+		.search-date {
+			font-style:  italic;
+			font-size:   90%;
+			color:       #ddd;
+			margin-left: 15px;
+			&:before {
+				content:      "\f017";
+				font-family:  FontAwesome;
+				font-style:   normal;
+				margin-right: 5px;
+			}
+		}
+	}
+}
+
+.header-search-close .fa-times {
+	font-size: 18px;
+	color:     #ccc;
+}
+
+/* Tag Cloud */
+.widget_tag_cloud {
+	&.tag-style-01 {
+		.tagcloud {
+			a {
+				padding:       5px 20px;
+				border:        1px #c8d3da solid;
+				display:       inline-block;
+				font-size:     13px !important;
+				margin-right:  10px;
+				margin-bottom: 20px;
+
+			}
+		}
+	}
+}
+
+/* Heading Style */
+.widget {
+	&.heading-style-01 {
+		overflow: hidden;
+		.widget-title {
+			padding-bottom: 20px;
+			display:        inline-block;
+			position:       relative;
+			&:after {
+				display:    block;
+				content:    "";
+				position:   absolute;
+				width:      500%;
+				height:     1px;
+				background: #c8d3da;
+				top:        100%;
+				left:       100%;
+			}
+		}
+	}
+}
+
+ul {
+	li {
+		&.dropdown-style-01 {
+			list-style: none;
+			position:   relative;
+			text-align: left;
+			border:     none;
+			&.menu-item-has-children {
+				&:after {
+					content:     "\f105";
+					display:     block;
+					position:    absolute;
+					right:       10px;
+					/*font-size: 8px;*/
+					font-family: fontawesome;
+					top:         calc(~" 50% - 10px ");
+				}
+			}
+
+			img {
+				margin-right: 10px;
+			}
+			ul {
+				width:      100%;
+				position:   absolute;
+				top:        80%;
+				left:       0;
+				opacity:    0;
+				visibility: hidden;
+				z-index:    1;
+				li {
+					border:     none !important;
+					width:      100%;
+					background: #f9f9f9;
+					padding:    10px 22px !important;
+
+				}
+			}
+			&:hover {
+				> ul {
+					position:   absolute;
+					top:        100%;
+					left:       0;
+					opacity:    1;
+					visibility: visible;
+				}
+			}
+		}
+	}
+}
+
+.so-widget-sow-post-carousel.so-widget-sow-post-carousel-base .sow-carousel-title {
+	margin-bottom: 30px;
+}

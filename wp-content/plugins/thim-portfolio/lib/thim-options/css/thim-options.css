@@ -1,0 +1,36 @@
+#of_container .radio-image:after {
+	display: block;
+	content: "";
+	clear: both;
+}
+#of_container .image-box {
+	box-sizing: border-box;
+	display: block;
+	float: left;
+	padding: 5px;
+	position: relative;
+	padding: 5px;
+}
+#of_container .image-box img {
+	cursor: pointer;
+}
+#of_container .image-box .of-radio-img-selected {
+border: 3px solid #008d71;
+}
+
+/* heading */
+#of_container .heading h3 {
+	padding: 10px;
+	background-color: #58C5C0;
+	color: #fff;
+	font-size: 1.5em;
+}
+
+#of_container .title {
+	display: block;
+	margin: 10px 0 10px 0;
+	padding: 7px 0px;
+	border-bottom: 1px solid #e7e7e7;
+	color: #222;
+	font-size: 1.3em;
+}

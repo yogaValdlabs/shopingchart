@@ -1,0 +1,123 @@
+.wc-product-slider
+{
+    /*padding-bottom: 20px;*/
+    .caroufredsel_wrapper {
+        margin: 0 !important;
+    }
+    .module_title
+    {
+        position: relative;
+        text-align: left;
+        border-bottom: 2px solid #e1e8ed;
+        height: 50px;
+        margin-bottom: 20px;
+        h4
+        {
+             height: 50px;
+            line-height: 50px;
+            margin: 0px;
+            display: inline-block;
+            position: absolute;
+            text-transform: uppercase;
+        }
+        .es-nav-prev{
+            /*top: 26px;
+            right:  0px;*/
+            top: 0;
+            right: 28px;
+        }
+        .es-nav-next{
+            top: 0px;
+            right: 0px;
+        }
+        .es-nav span {
+            width:       24px;
+            height:      24px;
+            line-height: 22px;
+            text-align:  center;
+            color:       #4dbac0;
+            cursor:      pointer;
+            background: #ffffff;
+            border: 1px solid #e1e8ed;
+            display: inline-block;
+            position: absolute;
+
+        }
+        .es-nav {
+            position: absolute;
+
+            top: 10px;
+            right: 0px;
+        }
+    }
+    ul.slider {
+         li {
+             list-style: none;
+        }
+    }
+    ul.products {
+        .itemstyle(1, 1);
+    }
+    ul.col-3 {
+        li {
+            width: 33.33% !important;
+            &:nth-child(3n+1) {
+                clear: both;
+            }
+        }
+    }
+   
+
+    ul.col-4 {
+        li {
+            width: 25% !important;
+            &:nth-child(4n+1) {
+                clear: both;
+            }
+        }
+    }
+}
+
+@media (max-width: 767px) {
+    .wc-product-slider {
+        ul.col-3 {
+            li {
+                width: 50% !important;
+                &:nth-child(3n+1) {
+                    clear: both;
+                }
+            }
+        }
+       
+
+        ul.col-4 {
+            li {
+                width: 50% !important;
+                &:nth-child(4n+1) {
+                    clear: both;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 380px) {
+    .wc-product-slider {
+        ul.col-3 {
+            li {
+                width: 100% !important;
+                &:nth-child(3n+1) {
+                    clear: both;
+                }
+            }
+        }
+        ul.col-4 {
+            li {
+                width: 100% !important;
+                &:nth-child(4n+1) {
+                    clear: both;
+                }
+            }
+        }
+    }
+}

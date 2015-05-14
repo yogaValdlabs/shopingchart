@@ -1,0 +1,36 @@
+/********* Updated to version 1.6
+
+- fix option Background Pattern not working in customize
+- add new option Description for each article in Display->Archive
+
+
+/********* Updated to version 1.7:
+-fix "layout product tag not style"
+
+/*********
+Updated to version 1.8:
+- fix "logo not full width"
+- fix options "Product hover not style"
+- update options "Product list/grid default"
+- update options "Show/Hide About The Author in single post"
+- update "layout of Cross-Sells in Page Cart"
+
+/*********
+Updated to version 1.9:
+-- fix hard code icon size in shortcode WC-Category
+-- fix permission file style.css, congfig.less...
+
+Updated to version 1.10:
+-- add new option grid column in woocommerce
+-- add new option disable reponsive
+-- fix Background Heading image not working
+
+Updated to version 1.11:
+-- share this in single blog not working
+-- update plugin visual composer
+-- fix customizer
+
+
+Updated to version 1.12:
+-- fix button in product missing style
+-- fix missing Top Header in customizer

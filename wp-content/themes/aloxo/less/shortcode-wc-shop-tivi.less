@@ -1,0 +1,54 @@
+.ps-tivi {
+	&.style-01 {
+		.ps-tivi-inner {
+			/*margin-left: 20px;*/
+			text-align: center;
+			padding: 13px 0;
+			border: 2px #414b61 solid;
+			/*margin-right: 1px;*/
+			a {
+				color: #414b61;
+				i {
+					margin-right: 10px;
+				}
+
+			}
+		}
+	}
+	&.style-02 {
+		.ps-tivi-inner {
+			text-align: center;
+			.rounded(50%);
+			/*margin-left: 20px;*/
+			padding: 13px 0;
+			border: 1px #eeeeee solid;	
+			a {
+				color: #414b61;
+				i {
+					margin-right: 10px;
+				}
+
+			}
+		}
+	}
+}
+@media (max-width: 767px) {
+    .ps-tivi {
+		&.style-01 {
+			.ps-tivi-inner {
+				text-align: left;
+				a {
+					margin-left: 20px;
+				}
+			}
+		}
+		&.style-02 {
+			.ps-tivi-inner {
+				text-align: left;
+				a {
+					margin-left: 20px;
+				}
+			}
+		}
+	}
+}

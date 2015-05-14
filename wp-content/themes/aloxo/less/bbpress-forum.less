@@ -1,0 +1,234 @@
+@bb-bg-color: #323A45;
+
+.bbpress {
+	#bbpress-forums {
+		fieldset.bbp-form legend {
+			text-align: center;
+		}
+		li.bbp-header {
+			border:     none;
+			background: @bb-bg-color;
+			color:      @white;
+			font-size:  13px;
+			padding:    15px 30px;
+			a {
+				color: @white;
+			}
+		}
+		li.bbp-forum-freshness,
+		li.bbp-topic-freshness {
+			width: 25%;
+		}
+		li.bbp-body {
+			ul {
+				border-top: 1px solid #F6F6F6;
+				padding:    17px 30px 22px 30px;
+				background: @white;
+				font-size:  14px;
+				color:      #858585;
+				a {
+					color: #858585;
+				}
+				.bbp-forum-title,
+				.bbp-topic-permalink {
+					font-size: 15px;
+					color:     #323945 !important;
+
+				}
+
+				img.avatar {
+					border:     none;
+					margin-top: -10px;
+				}
+
+			}
+		}
+		.bbp-breadcrumb {
+			padding:       20px 38px;
+			float:         none;
+			width:         100%;
+			background:    @white; /*@bb-bg-color;*/
+			border-bottom: 2px #EEEEEE solid;
+			font-size:     14px;
+			color:         #323945;
+			a {
+				color: #323945;
+
+			}
+			p {
+				margin-bottom: 0;
+			}
+			.bbp-breadcrumb-sep {
+				padding: 0 15px;
+			}
+		}
+		.bbp-template-notice {
+			border-radius: 0;
+			border:        none;
+			padding:       2px 10px;
+			img.avatar {
+				border:     none !important;
+				margin-top: -10px;
+			}
+		}
+		span.description {
+			border: none !important;
+		}
+		textarea,
+		fieldset textarea,
+		#bbp-your-profile fieldset textarea,
+		input[type="text"],
+		fieldset input[type="text"],
+		#bbp-your-profile fieldset input[type="text"] {
+			background: #F6F6F6;
+			border:     none;
+			padding:    9px;
+		}
+		select,
+		fieldset select,
+		#bbp-your-profile fieldset select {
+			padding:    6px;
+			background: #F6F6F6;
+			border:     none;
+		}
+
+		#bbp-single-user-details {
+			background: @white;
+			#bbp-user-avatar {
+				img.avatar {
+					margin: 0;
+				}
+			}
+			#bbp-user-navigation {
+				padding: 25px 20px 35px 20px;
+				color:   #999999;
+				a {
+					color: #999999;
+
+				}
+
+				li {
+					border-top: 1px #eee solid;
+					&:first-child {
+						border-top: none;
+					}
+					&.current {
+						a {
+							background: transparent;
+						}
+					}
+				}
+			}
+		}
+		#bbp-user-body {
+			background: @white;
+			padding:    23px 28px 70px 28px;
+			color:      #999999;
+			a {
+				color: #999999;
+			}
+			.entry-title, label[for] {
+				color: #323945;
+			}
+		}
+		label[for] {
+			color:       #323945;
+			font-weight: 500;
+		}
+		.bbp-reply-form, .bbp-topic-form {
+			background: @white;
+			padding:    38px 20px;
+		}
+	}
+}
+
+/* Forum */
+.bbpress {
+	&.forum-archive {
+		#bbpress-forums {
+			.bbp-search-form {
+				float:      none;
+				background: @white;
+				#bbp-search-form {
+					> div {
+						width: 100%;
+						&:after {
+							display: block;
+							content: "";
+							clear:   both;
+						}
+						.bb-search-field {
+							width: 70%;
+							float: left;
+							#bbp_search {
+								width:      100%;
+								padding:    9px;
+								border:     none;
+								background: #eee;
+							}
+						}
+						.search-icon {
+							width:      10%;
+							float:      left;
+							text-align: center;
+							i {
+								color:      #323945;
+								margin-top: 12px;
+							}
+						}
+						.search-btn {
+							width:      20%;
+							float:      left;
+							text-align: center;
+							#bbp_search_submit {
+								border:     none;
+								background: @bb-bg-color;
+								margin:     0;
+								color:      @white;
+								font-size:  12px;
+							}
+						}
+					}
+
+				}
+			}
+			.bbp-forums {
+			}
+		}
+	}
+}
+
+/* Topic */
+.bbpress {
+	&.single-forum {
+		#bbpress-forums {
+			.bbp-topics {
+				border: none;
+			}
+			.bbp-topic-form {
+			}
+		}
+	}
+}
+
+/* Single */
+.bbpress {
+	&.single-topic {
+		#bbpress-forums {
+			.bbp-replies {
+				border: none;
+			}
+		}
+	}
+}
+
+/* search */
+.bbpress.bbp-search {
+	.content-post {
+		&:after {
+			display: block;
+			content: "";
+			clear:   both;
+		}
+	}
+}

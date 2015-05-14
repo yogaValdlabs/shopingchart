@@ -1,0 +1,73 @@
+footer#colophon {
+	.footer {
+		padding: 35px 0;
+	}
+	.aloxo_social_link a {
+		background: #333333;
+		color:      @black;
+	}
+	.copyright_area {
+		p {
+			margin-bottom: 0px;
+		}
+		.container {
+			.copyright_inner {
+				padding: 15px 0;
+				display: table;
+				width:   100%;
+			}
+			.copyright {
+				display:        table-cell;
+				vertical-align: middle;
+			}
+			.column_right {
+				display:        table-cell;
+				vertical-align: middle;
+				text-align:     right;
+			}
+		}
+	}
+	.widget-title {
+		margin:         5px 0 32px 0;
+		text-transform: none;
+	}
+
+	.footer_widget {
+		ul {
+			li {
+				list-style:     none;
+				padding-bottom: 10px;
+			}
+		}
+	}
+
+}
+
+.mc4wp-form {
+	/*display: inline-block;*/
+	width:  100%;
+	margin: 0;
+	.icon_inside {
+		position: relative;
+		&:before {
+			content:     "\f064";
+			display:     table;
+			font-family: 'FontAwesome';
+			position:    absolute;
+			right:       14px;
+			top:         18px;
+			color:       #4dbac1;
+		}
+	}
+	input[type=email] {
+		box-shadow:    none;
+		border-radius: 0;
+		padding:       14px 14px;
+		border:        1px solid #e1e8ed;
+	}
+	input[type="submit"] {
+		float:       right;
+		margin:      0px;
+		margin-left: 3px;
+	}
+}

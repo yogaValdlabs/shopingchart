@@ -1,0 +1,3535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: aloxo\n"
+"POT-Creation-Date: 2015-04-06 14:46+0700\n"
+"PO-Revision-Date: 2015-04-06 14:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: thimpress <admin@thimpress.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: aloxo\n"
+
+#: themes/aloxo/404.php:18
+msgid "The page you requested was not found, and we have a fine quess why"
+msgstr ""
+
+#: themes/aloxo/404.php:19
+msgid ""
+"If you typed the URL directly, please make sure the spelling is correct.<br/"
+"> If you clicked on link to get here, the link is outdated."
+msgstr ""
+
+#: themes/aloxo/comments.php:35 themes/aloxo/comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: themes/aloxo/comments.php:37 themes/aloxo/comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: themes/aloxo/comments.php:38 themes/aloxo/comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: themes/aloxo/comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: themes/aloxo/content-grid.php:54 themes/aloxo/content.php:68
+msgid "Read More"
+msgstr ""
+
+#: themes/aloxo/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: themes/aloxo/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: themes/aloxo/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: themes/aloxo/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: themes/aloxo/content-page.php:15 themes/aloxo/content-single.php:26
+msgid "Pages:"
+msgstr ""
+
+#: themes/aloxo/content-single.php:33 themes/aloxo/inc/vc_map.php:3591
+msgid " "
+msgstr ""
+
+#: themes/aloxo/content-single.php:39
+msgid "about the author: "
+msgstr ""
+
+#: themes/aloxo/footer.php:65 themes/aloxo/page-templates/homepage3_1.php:310
+#: themes/aloxo/page-templates/homepage3_2.php:310
+#: themes/aloxo/page-templates/homepage3_3.php:319
+#: themes/aloxo/page-templates/homepage3_4.php:292
+msgid "Scroll To Top"
+msgstr ""
+
+#: themes/aloxo/functions.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: themes/aloxo/functions.php:88
+msgid "Sidebar 1"
+msgstr ""
+
+#: themes/aloxo/functions.php:97
+msgid "Sidebar 2"
+msgstr ""
+
+#: themes/aloxo/functions.php:108
+msgid "Drawer Top"
+msgstr ""
+
+#: themes/aloxo/functions.php:115
+#: themes/aloxo/inc/admin/customizer-sections/header-rightdrawer.php:5
+msgid "Right Drawer"
+msgstr ""
+
+#: themes/aloxo/functions.php:126
+msgid "Top Left"
+msgstr ""
+
+#: themes/aloxo/functions.php:135
+msgid "Top Right Sidebar"
+msgstr ""
+
+#: themes/aloxo/functions.php:144
+msgid "Header Left"
+msgstr ""
+
+#: themes/aloxo/functions.php:153
+msgid "Header Right"
+msgstr ""
+
+#: themes/aloxo/functions.php:162
+msgid "Menu Left"
+msgstr ""
+
+#: themes/aloxo/functions.php:171
+msgid "Menu Right"
+msgstr ""
+
+#: themes/aloxo/functions.php:180
+msgid "Footer 1 Sidebar"
+msgstr ""
+
+#: themes/aloxo/functions.php:189
+msgid "Footer 2 Sidebar"
+msgstr ""
+
+#: themes/aloxo/functions.php:198
+msgid "Footer 3 Sidebar"
+msgstr ""
+
+#: themes/aloxo/functions.php:207
+msgid "Footer 4 Sidebar"
+msgstr ""
+
+#: themes/aloxo/functions.php:216
+msgid "Copyright"
+msgstr ""
+
+#: themes/aloxo/functions.php:223
+msgid "Sidebar Shop"
+msgstr ""
+
+#: themes/aloxo/index.php:77
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:999
+#: themes/aloxo/inc/custom-functions.php:97
+msgid "Home"
+msgstr ""
+
+#: themes/aloxo/bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: themes/aloxo/bbpress/form-search.php:18
+msgid "Search"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:164
+#: themes/aloxo/inc/admin/plugins-require.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:165
+#: themes/aloxo/inc/admin/plugins-require.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:166
+#: themes/aloxo/inc/admin/plugins-require.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:180
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:521
+#: themes/aloxo/inc/admin/plugins-require.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:181
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1965
+#: themes/aloxo/inc/admin/plugins-require.php:211
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:182
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:547
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2179
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:574
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:743
+msgid "Dismiss this notice"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1150
+msgid "External Link"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1154
+msgid "Private Repository"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1157
+msgid "Pre-Packaged"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1161
+msgid "WordPress Repository"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1164
+msgid "Required"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1164
+msgid "Recommended"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1167
+msgid "Not Installed"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1169
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1171
+msgid "Not Updated"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1173
+msgid "Active"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1393
+#: themes/aloxo/inc/vc_map.php:2180 themes/aloxo/inc/vc_map.php:3239
+msgid "Type"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1413
+#: themes/aloxo/framework/libs/titan-framework/class-option-edd-license.php:147
+msgid "Activate"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2077
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2078
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2086
+msgid "Show Details"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2078
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2086
+msgid "Hide Details"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2079
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2080
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2083
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2084
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2085
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2087
+msgid "All installations have been completed."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:196
+msgid "Preview"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:200
+msgid "Help"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:217
+msgid "Please refresh this page to start using this widget."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:239
+msgid "Are you sure?"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:250
+#, php-format
+msgid ""
+"This query returns <a href=\"#\" class=\"preview-query-posts\">%s posts</a>."
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:256
+msgid "Select Posts"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:609
+msgid "Optional"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:729
+#: themes/aloxo/framework/libs/class-tp-widgets.php:770
+#, php-format
+msgid ""
+"You need to <a href=\"%s\">upgrade</a> to WordPress 3.5 to use media fields"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:746
+#: themes/aloxo/framework/libs/class-tp-widgets.php:807
+msgid "Choose Media"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:747
+#: themes/aloxo/framework/libs/class-tp-widgets.php:808
+msgid "Set Media"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:761
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:958
+#: themes/aloxo/framework/libs/tax-meta-class/Tax-meta-class.php:584
+#: themes/aloxo/framework/libs/tax-meta-class/Tax-meta-class.php:631
+msgid "Remove"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:835
+msgid "Build Posts Query"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:864
+msgid "Item"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:900
+#: themes/aloxo/framework/libs/tax-meta-class/Tax-meta-class.php:596
+msgid "Add"
+msgstr ""
+
+#: themes/aloxo/framework/libs/class-tp-widgets.php:985
+msgid "Unknown Field"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/parsers.php:51
+#: themes/aloxo/framework/libs/import/parsers.php:84
+#: themes/aloxo/framework/libs/import/parsers.php:92
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/parsers.php:52
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/parsers.php:97
+#: themes/aloxo/framework/libs/import/parsers.php:103
+#: themes/aloxo/framework/libs/import/parsers.php:301
+#: themes/aloxo/framework/libs/import/parsers.php:521
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/tp-import-class.php:259
+msgid "Success! Options file imported"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/tp-import-class.php:261
+msgid "Invalid options file"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:369
+msgid "Assign Authors"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:370
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:382
+msgid "Import Attachments"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:385
+msgid "Download and import file attachments"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:390
+msgid "Submit"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:417
+msgid "or create new user with login name:"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:420
+msgid "as a new user:"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:428
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:430
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:432
+msgid "- Select -"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1063
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1071
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1167
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1192
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1235
+msgid "Invalid file type"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1284
+msgid "Remote server did not respond"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1291
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1299
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1305
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1312
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1470
+msgid "Import WordPress"
+msgstr ""
+
+#: themes/aloxo/framework/libs/import/wordpress-importer.php:1805
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:493
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:604
+#: themes/aloxo/inc/vc_map.php:363 themes/aloxo/inc/vc_map.php:1934
+#: themes/aloxo/inc/vc_map.php:2145 themes/aloxo/inc/vc_map.php:2148
+#: themes/aloxo/inc/vc_map.php:2201 themes/aloxo/inc/vc_map.php:2204
+#: themes/aloxo/inc/vc_map.php:2256 themes/aloxo/inc/vc_map.php:2259
+#: themes/aloxo/inc/vc_map.php:2360 themes/aloxo/inc/vc_map.php:2363
+#: themes/aloxo/inc/vc_map.php:3004 themes/aloxo/inc/vc_map.php:3007
+#: themes/aloxo/inc/vc_map.php:3190 themes/aloxo/inc/vc_map.php:3194
+msgid "Column"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:605
+msgid "(Mega Menu)"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:616
+msgid "Move up"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:627
+msgid "Move down"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:629
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:631
+msgid "Edit Menu Item"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:640
+#: themes/aloxo/framework/libs/meta-box/post-format.php:60
+#: themes/aloxo/framework/libs/post-format/meta-box/post-format.php:60
+#: themes/aloxo/inc/admin/metabox-sections/post-format.php:60
+msgid "URL"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:648
+msgid "Navigation Label"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:649
+msgid ""
+"Mega Menu Column Title <span class=\"tp_supersmall\">(if you dont want to "
+"display a title just enter a single dash: \"-\" )</span>"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:657
+msgid "Title Attribute"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:664
+msgid "link Target"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:666
+msgid "Same window or tab"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:667
+msgid "New window or tab"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:673
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:680
+msgid "link Relationship (XFN)"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:687
+#: themes/aloxo/inc/vc_map.php:1365
+msgid "Description"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:704
+msgid "Click to browse icon"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:706
+msgid "Browse Icon"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:750
+msgid "Standard Dropdown"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:751
+msgid "Multicolumn Dropdown"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:752
+msgid "Widget area"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:768
+msgid "Select Widget Area"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:809
+msgid "Drop To Left Side"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:810
+msgid "Drop To Right Side"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:811
+msgid "Drop To Center"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:856
+msgid "Browse Image"
+msgstr ""
+
+#: themes/aloxo/framework/libs/megamenu/class-megamenu.php:946
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/post-format.php:10
+#: themes/aloxo/framework/libs/meta-box/post-format.php:77
+#: themes/aloxo/framework/libs/post-format/meta-box/post-format.php:10
+#: themes/aloxo/framework/libs/post-format/meta-box/post-format.php:77
+#: themes/aloxo/inc/admin/metabox-sections/post-format.php:10
+#: themes/aloxo/inc/admin/metabox-sections/post-format.php:77
+msgid "Select or Upload Image"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/post-format.php:23
+#: themes/aloxo/framework/libs/post-format/meta-box/post-format.php:23
+#: themes/aloxo/inc/admin/metabox-sections/post-format.php:23
+msgid "Video URL or Embeded Code"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/post-format.php:36
+#: themes/aloxo/framework/libs/post-format/meta-box/post-format.php:36
+#: themes/aloxo/inc/admin/metabox-sections/post-format.php:36
+msgid "Quote"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/post-format.php:42
+#: themes/aloxo/framework/libs/post-format/meta-box/post-format.php:42
+#: themes/aloxo/inc/admin/metabox-sections/post-format.php:42
+msgid "Author"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/post-format.php:48
+#: themes/aloxo/framework/libs/post-format/meta-box/post-format.php:48
+#: themes/aloxo/inc/admin/metabox-sections/post-format.php:48
+msgid "Author Url"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/post-format.php:65
+#: themes/aloxo/framework/libs/post-format/meta-box/post-format.php:65
+#: themes/aloxo/inc/vc_map.php:233 themes/aloxo/inc/vc_map.php:257
+#: themes/aloxo/inc/vc_map.php:380 themes/aloxo/inc/vc_map.php:2395
+#: themes/aloxo/inc/admin/metabox-sections/post-format.php:65
+msgid "Text"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/post-format.php:90
+#: themes/aloxo/framework/libs/post-format/meta-box/post-format.php:90
+#: themes/aloxo/inc/admin/metabox-sections/post-format.php:90
+msgid "Audio URL or Embeded Code"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:10
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:10
+msgid "Custom Featured Title Area"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:15
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:15
+msgid "Using Custom Featured Title Area?"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:23
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:23
+msgid "Custom Title and Subtitle"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:28
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:28
+msgid "Hide Title and Subtitle"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:35
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:35
+msgid "Custom Title"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:38
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:38
+msgid "Leave empty to use post title"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:42
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:42
+msgid "Subtitle"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:55
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:55
+msgid "Custom Heading Background"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:68
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:68
+msgid "Background"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:74
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:74
+msgid "Text Color Featured Title"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:80
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:80
+msgid "Height Custom Heading "
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:90
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:90
+msgid "Custom Layout"
+msgstr ""
+
+#: themes/aloxo/framework/libs/meta-box/setting.php:95
+#: themes/aloxo/inc/admin/metabox-sections/setting.php:95
+msgid "Use Custom Layout?"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:274
+#: themes/aloxo/inc/post-formats.php:270
+msgid "previous"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:276
+#: themes/aloxo/inc/post-formats.php:272
+msgid "play"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:277
+#: themes/aloxo/inc/post-formats.php:273
+msgid "pause"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:278
+#: themes/aloxo/inc/post-formats.php:274
+msgid "next"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:279
+#: themes/aloxo/inc/post-formats.php:275
+msgid "stop"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:281
+#: themes/aloxo/inc/post-formats.php:277
+msgid "mute"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:284
+#: themes/aloxo/inc/post-formats.php:280
+msgid "unmute"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:287
+#: themes/aloxo/inc/post-formats.php:283
+msgid "max volume"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:304
+#: themes/aloxo/inc/post-formats.php:300
+msgid "shuffle"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:307
+#: themes/aloxo/inc/post-formats.php:303
+msgid "shuffle off"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:310
+#: themes/aloxo/inc/post-formats.php:306
+msgid "repeat"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:313
+#: themes/aloxo/inc/post-formats.php:309
+msgid "repeat off"
+msgstr ""
+
+#: themes/aloxo/framework/libs/post-format/post-formats.php:318
+#: themes/aloxo/inc/post-formats.php:314
+#, php-format
+msgid ""
+"<span>Update Required</span> To play the media you will need to either "
+"update your browser to a recent version or update your <a href=\"%s\" target="
+"\"_blank\">Flash plugin</a>."
+msgstr ""
+
+#: themes/aloxo/framework/libs/tax-meta-class/Tax-meta-class.php:251
+msgid "Delete this image"
+msgstr ""
+
+#: themes/aloxo/framework/libs/tax-meta-class/Tax-meta-class.php:251
+#: themes/aloxo/framework/libs/tax-meta-class/Tax-meta-class.php:897
+msgid "Delete"
+msgstr ""
+
+#: themes/aloxo/framework/libs/tax-meta-class/Tax-meta-class.php:361
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: themes/aloxo/framework/libs/tax-meta-class/Tax-meta-class.php:893
+msgid "Uploaded files"
+msgstr ""
+
+#: themes/aloxo/framework/libs/tax-meta-class/Tax-meta-class.php:904
+msgid "Upload new files"
+msgstr ""
+
+#: themes/aloxo/framework/libs/tax-meta-class/Tax-meta-class.php:910
+msgid "Add more files"
+msgstr ""
+
+#: themes/aloxo/framework/libs/tax-meta-class/Tax-meta-class.php:966
+msgid "Select a color"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-admin-panel.php:297
+msgid "Settings saved."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-admin-panel.php:299
+msgid "Settings reset to default."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-meta-box.php:37
+#: themes/aloxo/framework/libs/titan-framework/class-theme-customizer-section.php:32
+#: themes/aloxo/framework/libs/titan-framework/thim-class-customizer-section.php:39
+#: themes/aloxo/framework/libs/titan-framework/thim-class-meta-box.php:36
+msgid "More Options"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-edd-license.php:129
+msgid "Your license is valid and active."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-edd-license.php:133
+msgid "Your license is invalid."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-edd-license.php:148
+msgid ""
+"Your license is valid but inactive. Click the button above to activate it."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-edd-license.php:153
+msgid ""
+"The remote server did not return a valid response. You can retry by hitting "
+"the &laquo;Save&raquo; button again."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-edd-license.php:159
+msgid "Entering your license key is mandatory to get the product updates."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-enable.php:21
+#: themes/aloxo/framework/libs/titan-framework/class-option-enable.php:96
+msgid "Enabled"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-enable.php:24
+#: themes/aloxo/framework/libs/titan-framework/class-option-enable.php:99
+msgid "Disabled"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-import.php:21
+msgid "Import"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-save.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-save.php:24
+msgid "Reset to Defaults"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-save.php:27
+msgid "Are you sure you want to reset ALL options to their default values?"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-select-categories.php:37
+#: themes/aloxo/framework/libs/titan-framework/class-option-select-categories.php:104
+#: themes/aloxo/framework/libs/titan-framework/class-option-select-pages.php:30
+#: themes/aloxo/framework/libs/titan-framework/class-option-select-posts.php:38
+#: themes/aloxo/framework/libs/titan-framework/class-option-select-posts.php:106
+msgid "Select"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-upload-advanced.php:248
+#: themes/aloxo/framework/libs/titan-framework/class-option-upload.php:202
+msgid "Select Image"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option-upload-advanced.php:251
+#: themes/aloxo/framework/libs/titan-framework/class-option-upload.php:205
+msgid "Use image"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-option.php:42
+#, php-format
+msgid "Option type or extended class %s does not exist."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-titan-framework.php:90
+#, php-format
+msgid "All option IDs must be unique. The id %s has been used multiple times."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-titan-framework.php:364
+#: themes/aloxo/framework/libs/titan-framework/class-titan-framework.php:410
+#, php-format
+msgid ""
+"Wrong usage of %s, this should be called inside a hook or from within a "
+"theme file."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-titan-tracking.php:70
+msgid ""
+"Help us make Titan Framework better by enabling your site to periodically "
+"send us tracking data. This is so we can know where and how Titan is being "
+"used."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-titan-tracking.php:71
+msgid "Help us and track"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/class-titan-tracking.php:72
+msgid "Don't track"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/titan-framework-checker.php:70
+msgid "Titan Framework needs to be installed."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/titan-framework-checker.php:73
+msgid "Click here to search for the plugin."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/titan-framework-checker.php:85
+msgid "Titan Framework needs to be activated."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/titan-framework-checker.php:88
+msgid "Click here to go to the plugins page and activate it."
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/titan-framework.php:157
+msgid "Documentation"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/titan-framework.php:159
+msgid "GitHub Repo"
+msgstr ""
+
+#: themes/aloxo/framework/libs/titan-framework/titan-framework.php:161
+msgid "Issue Tracker"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:104
+msgid "<li>Portfolio</li>"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:115
+msgid "<li>Download</li>"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:118
+msgid "<li>Archive</li>"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:121
+msgid "<li>Search Result</li>"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:123
+msgid "<li>404 Not Found</li>"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:192
+#, php-format
+msgid "<strong>%s</strong>"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:194
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:200
+#: themes/aloxo/inc/template-tags.php:220
+msgid "Edit"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:246
+msgid "New Customer"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:248
+msgid "Register Account"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:249
+msgid ""
+"By creating an account you will be able to shop faster, be up to date on an "
+"order status, and keep track of the orders you have previously made."
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:250
+msgid "Continue"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:257
+msgid "Returning Customer"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:260
+msgid "I am a returning customer"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:272
+msgid "Remember password"
+msgstr ""
+
+#: themes/aloxo/inc/custom-functions.php:593
+msgid "POST not found"
+msgstr ""
+
+#: themes/aloxo/inc/related.php:14
+msgid "YOU MAY ALSO LIKE"
+msgstr ""
+
+#: themes/aloxo/inc/related.php:68
+msgid "Facebook"
+msgstr ""
+
+#: themes/aloxo/inc/related.php:73 themes/aloxo/inc/vc_map.php:3450
+#: themes/aloxo/inc/admin/metabox-sections/share-this.php:26
+#: themes/aloxo/inc/shortcodes/social_link/social_link.php:32
+msgid "Twitter"
+msgstr ""
+
+#: themes/aloxo/inc/related.php:79
+msgid "GooglePlus"
+msgstr ""
+
+#: themes/aloxo/inc/related.php:84
+#: themes/aloxo/inc/admin/metabox-sections/share-this.php:40
+msgid "Tumblr"
+msgstr ""
+
+#: themes/aloxo/inc/tax-meta.php:60
+msgid "Custom Layout "
+msgstr ""
+
+#: themes/aloxo/inc/tax-meta.php:65
+msgid "Custom Style "
+msgstr ""
+
+#: themes/aloxo/inc/tax-meta.php:72
+msgid "Custom Columns "
+msgstr ""
+
+#: themes/aloxo/inc/tax-meta.php:79
+msgid "Custom Paging "
+msgstr ""
+
+#: themes/aloxo/inc/tax-meta.php:82
+msgid "Custom Content Background Color "
+msgstr ""
+
+#: themes/aloxo/inc/tax-meta.php:83
+msgid "Background Color Content "
+msgstr ""
+
+#: themes/aloxo/inc/tax-meta.php:91
+msgid "Feature Image "
+msgstr ""
+
+#: themes/aloxo/inc/tax-meta.php:98
+msgid "Background Color "
+msgstr ""
+
+#: themes/aloxo/inc/tax-meta.php:99
+msgid "Background Image "
+msgstr ""
+
+#: themes/aloxo/inc/tax-meta.php:109
+msgid "Or Upload Icon"
+msgstr ""
+
+#: themes/aloxo/inc/template-tags.php:43
+msgid "<"
+msgstr ""
+
+#: themes/aloxo/inc/template-tags.php:44
+msgid ">"
+msgstr ""
+
+#: themes/aloxo/inc/template-tags.php:165
+msgid "0"
+msgstr ""
+
+#: themes/aloxo/inc/template-tags.php:165 themes/aloxo/inc/vc_map.php:1937
+#: themes/aloxo/inc/vc_map.php:2901
+msgid "1"
+msgstr ""
+
+#: themes/aloxo/inc/template-tags.php:165
+msgid "%"
+msgstr ""
+
+#: themes/aloxo/inc/template-tags.php:195
+msgid "by "
+msgstr ""
+
+#: themes/aloxo/inc/template-tags.php:209
+#: themes/aloxo/inc/template-tags.php:213
+msgid "in "
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:5 themes/aloxo/inc/vc_map.php:14
+msgid "CSS Animation"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:8 themes/aloxo/inc/vc_map.php:17
+msgid "No"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:8
+msgid "Top to bottom"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:8
+msgid "Bottom to top"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:8
+msgid "Left to right"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:8
+msgid "Right to left"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:8
+msgid "Appear from center"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:9 themes/aloxo/inc/vc_map.php:18
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:17
+msgid "ScaleIn Effect"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:40
+msgid "Headings"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:44 themes/aloxo/inc/vc_map.php:197
+#: themes/aloxo/inc/vc_map.php:252 themes/aloxo/inc/vc_map.php:358
+#: themes/aloxo/inc/vc_map.php:542 themes/aloxo/inc/vc_map.php:1221
+#: themes/aloxo/inc/vc_map.php:1868 themes/aloxo/inc/vc_map.php:2010
+#: themes/aloxo/inc/vc_map.php:2044 themes/aloxo/inc/vc_map.php:2114
+#: themes/aloxo/inc/vc_map.php:2170 themes/aloxo/inc/vc_map.php:2225
+#: themes/aloxo/inc/vc_map.php:2278 themes/aloxo/inc/vc_map.php:2390
+#: themes/aloxo/inc/vc_map.php:2686 themes/aloxo/inc/vc_map.php:2800
+#: themes/aloxo/inc/vc_map.php:2936 themes/aloxo/inc/vc_map.php:3025
+#: themes/aloxo/inc/vc_map.php:3299 themes/aloxo/inc/vc_map.php:3393
+#: themes/aloxo/inc/vc_map.php:3415 themes/aloxo/inc/vc_map.php:3452
+#: themes/aloxo/inc/vc_map.php:3585 themes/aloxo/inc/vc_map.php:3637
+msgid "Aloxo Shortcodes"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:45
+msgid "Add heading text"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:51 themes/aloxo/inc/vc_map.php:203
+#: themes/aloxo/inc/vc_map.php:1874
+msgid "Heading Text"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:53 themes/aloxo/inc/vc_map.php:205
+msgid "Default value"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:57
+msgid "Text Heading color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:61 themes/aloxo/inc/vc_map.php:2951
+msgid "Choose text color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:65 themes/aloxo/inc/vc_map.php:209
+#: themes/aloxo/inc/vc_map.php:1244 themes/aloxo/inc/vc_map.php:1879
+msgid "Size Heading"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:68 themes/aloxo/inc/vc_map.php:212
+#: themes/aloxo/inc/vc_map.php:1247 themes/aloxo/inc/vc_map.php:1882
+msgid "h3"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:68 themes/aloxo/inc/vc_map.php:212
+#: themes/aloxo/inc/vc_map.php:1882
+msgid "h1"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:68 themes/aloxo/inc/vc_map.php:212
+#: themes/aloxo/inc/vc_map.php:1247 themes/aloxo/inc/vc_map.php:1882
+msgid "h2"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:68 themes/aloxo/inc/vc_map.php:212
+#: themes/aloxo/inc/vc_map.php:1247 themes/aloxo/inc/vc_map.php:1882
+msgid "h4"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:68 themes/aloxo/inc/vc_map.php:212
+#: themes/aloxo/inc/vc_map.php:1247 themes/aloxo/inc/vc_map.php:1882
+msgid "h5"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:68 themes/aloxo/inc/vc_map.php:212
+#: themes/aloxo/inc/vc_map.php:1247 themes/aloxo/inc/vc_map.php:1882
+msgid "h6"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:69 themes/aloxo/inc/vc_map.php:213
+#: themes/aloxo/inc/vc_map.php:1248 themes/aloxo/inc/vc_map.php:1883
+msgid "Select size heading."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:73 themes/aloxo/inc/vc_map.php:1258
+msgid "Font Heading"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:76 themes/aloxo/inc/vc_map.php:116
+#: themes/aloxo/inc/vc_map.php:168 themes/aloxo/inc/vc_map.php:1261
+#: themes/aloxo/inc/vc_map.php:1890 themes/aloxo/inc/vc_map.php:3272
+#: themes/aloxo/inc/vc_map.php:3368
+#: themes/aloxo/inc/admin/customizer-sections/header-layout.php:43
+msgid "Default"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:76 themes/aloxo/inc/vc_map.php:116
+#: themes/aloxo/inc/vc_map.php:168 themes/aloxo/inc/vc_map.php:1261
+#: themes/aloxo/inc/vc_map.php:3050 themes/aloxo/inc/vc_map.php:3368
+#: themes/aloxo/inc/admin/customizer-sections/header-headeroptions.php:21
+msgid "Custom"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:77 themes/aloxo/inc/vc_map.php:117
+#: themes/aloxo/inc/vc_map.php:1262 themes/aloxo/inc/vc_map.php:1345
+msgid "Select Font heading."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:81 themes/aloxo/inc/vc_map.php:1292
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:81
+#: themes/aloxo/inc/admin/customizer-sections/header-mobile.php:40
+#: themes/aloxo/inc/admin/customizer-sections/header-topbar.php:27
+msgid "Font Size"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:87 themes/aloxo/inc/vc_map.php:1298
+msgid "custom font size"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:92 themes/aloxo/inc/vc_map.php:1303
+msgid "Custom Font Weight"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:96 themes/aloxo/inc/vc_map.php:1307
+#: themes/aloxo/inc/vc_map.php:3483
+msgid "Normal"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:97 themes/aloxo/inc/vc_map.php:1308
+#: themes/aloxo/inc/vc_map.php:3484
+msgid "Bold"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:98 themes/aloxo/inc/vc_map.php:1309
+#: themes/aloxo/inc/vc_map.php:3489
+msgid "100"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:99 themes/aloxo/inc/vc_map.php:1310
+#: themes/aloxo/inc/vc_map.php:3490
+msgid "200"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:100 themes/aloxo/inc/vc_map.php:1311
+#: themes/aloxo/inc/vc_map.php:3491
+msgid "300"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:101 themes/aloxo/inc/vc_map.php:1312
+#: themes/aloxo/inc/vc_map.php:3492
+msgid "400"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:102 themes/aloxo/inc/vc_map.php:1313
+#: themes/aloxo/inc/vc_map.php:3493
+msgid "500"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:103 themes/aloxo/inc/vc_map.php:1314
+#: themes/aloxo/inc/vc_map.php:3494
+msgid "600"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:104 themes/aloxo/inc/vc_map.php:1315
+#: themes/aloxo/inc/vc_map.php:3495
+msgid "700"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:105 themes/aloxo/inc/vc_map.php:1316
+#: themes/aloxo/inc/vc_map.php:3496
+msgid "800"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:106 themes/aloxo/inc/vc_map.php:1317
+#: themes/aloxo/inc/vc_map.php:3497
+msgid "900"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:108 themes/aloxo/inc/vc_map.php:1319
+msgid "Select Custom Font Weight"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:113 themes/aloxo/inc/vc_map.php:1339
+msgid "Margin Bottom"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:121
+msgid "Margin Bottom Value"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:130
+msgid "Text Align:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:140 themes/aloxo/inc/vc_map.php:2048
+#: themes/aloxo/inc/vc_map.php:2401 themes/aloxo/inc/vc_map.php:2582
+#: themes/aloxo/inc/vc_map.php:2657 themes/aloxo/inc/vc_map.php:2863
+#: themes/aloxo/inc/vc_map.php:3641
+#: themes/aloxo/woocommerce/widgets/class-wc-search.php:142
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-cart.php:112
+msgid "Style"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:151
+msgid "Select style heading."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:156
+msgid "Line Width:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:165
+msgid "Custom Line Color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:172
+msgid "Line Color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:180 themes/aloxo/inc/vc_map.php:238
+#: themes/aloxo/inc/vc_map.php:262 themes/aloxo/inc/vc_map.php:484
+#: themes/aloxo/inc/vc_map.php:1993 themes/aloxo/inc/vc_map.php:2028
+#: themes/aloxo/inc/vc_map.php:2154 themes/aloxo/inc/vc_map.php:2210
+#: themes/aloxo/inc/vc_map.php:2265 themes/aloxo/inc/vc_map.php:2376
+#: themes/aloxo/inc/vc_map.php:2428 themes/aloxo/inc/vc_map.php:2467
+#: themes/aloxo/inc/vc_map.php:2608 themes/aloxo/inc/vc_map.php:2667
+#: themes/aloxo/inc/vc_map.php:2788 themes/aloxo/inc/vc_map.php:3012
+#: themes/aloxo/inc/vc_map.php:3199 themes/aloxo/inc/vc_map.php:3259
+#: themes/aloxo/inc/vc_map.php:3380 themes/aloxo/inc/vc_map.php:3624
+msgid "Extra class name"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:182 themes/aloxo/inc/vc_map.php:240
+#: themes/aloxo/inc/vc_map.php:264 themes/aloxo/inc/vc_map.php:486
+#: themes/aloxo/inc/vc_map.php:1995 themes/aloxo/inc/vc_map.php:2030
+#: themes/aloxo/inc/vc_map.php:2156 themes/aloxo/inc/vc_map.php:2212
+#: themes/aloxo/inc/vc_map.php:2267 themes/aloxo/inc/vc_map.php:2378
+#: themes/aloxo/inc/vc_map.php:2430 themes/aloxo/inc/vc_map.php:2469
+#: themes/aloxo/inc/vc_map.php:2610 themes/aloxo/inc/vc_map.php:2669
+#: themes/aloxo/inc/vc_map.php:2790 themes/aloxo/inc/vc_map.php:3014
+#: themes/aloxo/inc/vc_map.php:3201 themes/aloxo/inc/vc_map.php:3261
+#: themes/aloxo/inc/vc_map.php:3382 themes/aloxo/inc/vc_map.php:3626
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:193
+msgid "Services We Provide"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:217 themes/aloxo/inc/vc_map.php:3503
+msgid "Icon"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:220
+msgid "Game"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:220 themes/aloxo/inc/vc_map.php:2053
+#: themes/aloxo/inc/vc_map.php:2586 themes/aloxo/inc/vc_map.php:2661
+msgid "Style 02"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:220 themes/aloxo/inc/vc_map.php:2587
+#: themes/aloxo/inc/vc_map.php:2662
+msgid "Style 03"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:220 themes/aloxo/inc/vc_map.php:2588
+msgid "Style 04"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:221
+msgid "Select icon."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:225
+msgid "Margin Top Box Icon (px)"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:235 themes/aloxo/inc/vc_map.php:259
+msgid ""
+"<p>I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.</p>"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:248
+msgid "Dropcap"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:354
+#: themes/aloxo/inc/templates/archive-top.php:157
+msgid "Portfolio"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:367
+msgid "One Columns"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:368
+msgid "Two Columns"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:369
+msgid "Three Columns"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:370
+msgid "Four Columns"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:371
+msgid "Five Columns"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:376
+msgid "Items Style"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:381 themes/aloxo/inc/vc_map.php:423
+msgid "Classic"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:387
+msgid "Enable gutter for Items"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:389 themes/aloxo/inc/vc_map.php:2325
+#: themes/aloxo/inc/vc_map.php:2331 themes/aloxo/inc/vc_map.php:2986
+#: themes/aloxo/inc/vc_map.php:2992 themes/aloxo/inc/vc_map.php:3094
+#: themes/aloxo/inc/vc_map.php:3101 themes/aloxo/inc/vc_map.php:3180
+#: themes/aloxo/inc/vc_map.php:3186
+msgid "Yes, please"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:393
+msgid "Items Size"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:397
+msgid "Multigrid"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:398
+msgid "Masonry"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:399
+msgid "Same size"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:413
+msgid "Category Portfolio ID"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:415
+msgid "Enter category portfolio ID Example: 1, 2"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:419
+msgid "Images Hover Effects"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:424
+msgid "Zoom In 01"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:425
+msgid "Zoom In 02"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:430
+msgid "Filters"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:434 themes/aloxo/inc/vc_map.php:2301
+#: themes/aloxo/inc/vc_map.php:2962 themes/aloxo/inc/vc_map.php:3067
+#: themes/aloxo/inc/vc_map.php:3156
+msgid "Show"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:435
+msgid "Hide"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:440
+msgid "Filter Style"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:444 themes/aloxo/inc/vc_map.php:1891
+#: themes/aloxo/inc/vc_map.php:2867 themes/aloxo/inc/vc_map.php:3113
+#: themes/aloxo/inc/vc_map.php:3644
+msgid "Style-01"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:445 themes/aloxo/inc/vc_map.php:1892
+#: themes/aloxo/inc/vc_map.php:2867 themes/aloxo/inc/vc_map.php:3114
+#: themes/aloxo/inc/vc_map.php:3644
+msgid "Style-02"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:452
+msgid "Filter Position"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:456
+msgid "Left"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:457
+msgid "Center"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:458
+msgid "Right"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:465
+msgid "Pagination Styles"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:469
+msgid "Show All"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:470
+msgid "Limit Items"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:471
+msgid "Paging"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:472
+msgid "Infinite Scroll"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:477
+msgid "Items per View"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:538
+msgid "Full Screen Video"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:546
+msgid "Link Video (.mp4)"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:552
+msgid "Link Video (.ogg)"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1216
+msgid "Icon Box"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1230 themes/aloxo/inc/vc_map.php:1977
+#: themes/aloxo/inc/vc_map.php:2118 themes/aloxo/inc/vc_map.php:2174
+#: themes/aloxo/inc/vc_map.php:2229 themes/aloxo/inc/vc_map.php:2282
+#: themes/aloxo/inc/vc_map.php:2692 themes/aloxo/inc/vc_map.php:2873
+#: themes/aloxo/inc/vc_map.php:2940 themes/aloxo/inc/vc_map.php:3057
+#: themes/aloxo/inc/vc_map.php:3142 themes/aloxo/inc/vc_map.php:3397
+#: themes/aloxo/inc/vc_map.php:3456
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:37
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-price-filter.php:32
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:33
+msgid "Title"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1234
+msgid "Provide the title for this icon box."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1239
+msgid "Color Title"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1283
+msgid "Custom Font Family"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1287
+msgid "Select Font."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1324
+msgid "Custom Font Style"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1328
+msgid "inherit"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1329
+msgid "initial"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1330
+msgid "italic"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1331
+msgid "normal"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1332
+msgid "oblique"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1334
+msgid "Select Custom Font Style"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1352
+msgid "Heading Style:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1368
+msgid "Provide the description for this icon box."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1372
+msgid "Color Description"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1379
+msgid "Add Link"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1382
+msgid "Provide the link that will be applied to this icon box."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1388
+msgid "Apply link to:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1395 themes/aloxo/inc/vc_map.php:1570
+msgid "Select whether to use color for icon or not."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1401
+msgid "Read More Text"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1404
+msgid "Customize the read more text."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1410
+msgid "Border Color Read More Text:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1412
+msgid "Select whether to use border color for Read More Text or none."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1418
+msgid "Background Color Read More Text:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1420
+msgid "Select whether to use background color for Read More Text or default."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1426
+msgid "Background Hover Color Read More Text:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1428
+msgid ""
+"Select whether to use background color when hover Read More Text or default."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1434
+msgid "Text Color Read More Text:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1437
+msgid "Select whether to use text color for Read More Text or default."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1444
+msgid "Icon to display:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1450
+msgid "Select which icon you would like to use"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1456 themes/aloxo/inc/vc_map.php:3350
+#: themes/aloxo/inc/vc_map.php:3665
+msgid "Select Icon:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1460 themes/aloxo/inc/vc_map.php:3354
+#: themes/aloxo/inc/vc_map.php:3507
+msgid "Select the icon from the list."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1469
+msgid "Upload Image Icon:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1473
+msgid "Upload the custom image icon."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1480
+msgid "Icon Font Size "
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1486
+msgid "Select the icon font size."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1492
+msgid "Width Images"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1498
+msgid "Select width images. Leave empty for using original size"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1504
+msgid "Height Images"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1510
+msgid "Select Height Images. Leave empty for using original size"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1517
+msgid "Width Box Icon (px)"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1567
+msgid "Icon Color:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1569
+msgid "Use Default"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1569 themes/aloxo/inc/vc_map.php:3283
+msgid "Custom Color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1577
+msgid "Select Icon Color:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1580
+msgid "Select the icon color."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1586 themes/aloxo/inc/vc_map.php:1911
+#: themes/aloxo/inc/vc_map.php:2137 themes/aloxo/inc/vc_map.php:2193
+#: themes/aloxo/inc/vc_map.php:2248 themes/aloxo/inc/vc_map.php:2335
+#: themes/aloxo/inc/vc_map.php:2433 themes/aloxo/inc/vc_map.php:2473
+#: themes/aloxo/inc/vc_map.php:2804 themes/aloxo/inc/vc_map.php:3043
+msgid "Layout"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1590
+msgid "Layout 01"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1591
+msgid "Layout 02"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1592
+msgid "Layout 03"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1593
+msgid "Layout 04"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1600 themes/aloxo/inc/vc_map.php:1607
+#: themes/aloxo/inc/vc_map.php:1615 themes/aloxo/inc/vc_map.php:1622
+#: themes/aloxo/inc/vc_map.php:1629 themes/aloxo/inc/vc_map.php:1636
+#: themes/aloxo/inc/vc_map.php:1643 themes/aloxo/inc/vc_map.php:2820
+#: themes/aloxo/inc/vc_map.php:2827 themes/aloxo/inc/vc_map.php:2834
+#: themes/aloxo/inc/vc_map.php:2841 themes/aloxo/inc/vc_map.php:2848
+#: themes/aloxo/inc/vc_map.php:2855 themes/aloxo/inc/vc_map.php:3429
+#: themes/aloxo/inc/vc_map.php:3436 themes/aloxo/inc/vc_map.php:3650
+#: themes/aloxo/inc/vc_map.php:3657
+msgid "Preview Layout"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1651
+msgid "Select Box icon style"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1666
+msgid "Upload Background Image"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1670
+msgid "Upload the background image."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1683
+msgid "Width Background Image (px)"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1693
+msgid "Height Background Image (px)"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1704
+msgid "Box Style:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1713
+msgid ""
+"Select icon position. Icon box style will be changed according to the icon "
+"position."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1719
+msgid "Margin Right Icon"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1727
+msgid "Margin Left Icon"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1735
+msgid "Text Align Shortcode:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1746
+msgid "Icon Hover Effects"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1750
+msgid "None"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1751
+msgid "BounceIn"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1759
+msgid "Config Color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1765
+msgid "Background Header:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1768
+msgid "Select the color for icon header."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1773
+msgid "Icon Border Color:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1776
+msgid "Select the color for icon border."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1782
+msgid "Icon Background Color:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1785
+msgid "Select the color for icon background."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1791
+msgid "Background Color Shortcode"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1794 themes/aloxo/inc/vc_map.php:1820
+msgid "Select the color for shortcode background."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1800
+msgid "Hover Icon Color:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1803
+msgid "Select the color hover for icon."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1808
+msgid "Hover Icon Border Color:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1811
+msgid "Select the color hover for icon border."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1817
+msgid "Background Color Shortcode Hover"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1825
+msgid "Hover Icon Background Color:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1828
+msgid "Select the color hover for icon background header."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1844
+msgid "Extra Class"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1847
+msgid ""
+"Add extra class name that will be applied to the icon box, and you can use "
+"this class for your customizations."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1864
+msgid "Posts Display"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1887
+msgid "Heading Style"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1893
+msgid "Style-03"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1899
+msgid "Right Heading Text"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1905
+msgid "Right Heading Link"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1914 themes/aloxo/inc/vc_map.php:2338
+#: themes/aloxo/inc/vc_map.php:2809
+msgid "Layout-01"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1914 themes/aloxo/inc/vc_map.php:2338
+msgid "Layout-02"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1914 themes/aloxo/inc/vc_map.php:2338
+msgid "Layout-03"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1919 themes/aloxo/inc/vc_map.php:1922
+#: themes/aloxo/inc/vc_map.php:2131 themes/aloxo/inc/vc_map.php:2134
+#: themes/aloxo/inc/vc_map.php:2187 themes/aloxo/inc/vc_map.php:2190
+#: themes/aloxo/inc/vc_map.php:2242 themes/aloxo/inc/vc_map.php:2245
+msgid "Number Posts"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1921 themes/aloxo/inc/vc_map.php:1940
+#: themes/aloxo/inc/vc_map.php:2133 themes/aloxo/inc/vc_map.php:2147
+#: themes/aloxo/inc/vc_map.php:2189 themes/aloxo/inc/vc_map.php:2203
+#: themes/aloxo/inc/vc_map.php:2244 themes/aloxo/inc/vc_map.php:2258
+#: themes/aloxo/inc/vc_map.php:2362 themes/aloxo/inc/vc_map.php:2904
+#: themes/aloxo/inc/vc_map.php:3006 themes/aloxo/inc/vc_map.php:3193
+msgid "4"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1938 themes/aloxo/inc/vc_map.php:2902
+msgid "2"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1939 themes/aloxo/inc/vc_map.php:2903
+#: themes/aloxo/inc/vc_map.php:3006 themes/aloxo/inc/vc_map.php:3193
+msgid "3"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1941 themes/aloxo/inc/vc_map.php:2905
+msgid "5"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1942 themes/aloxo/inc/vc_map.php:2906
+msgid "6"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1952
+msgid "Content Length Excerpt Words"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1966 themes/aloxo/inc/vc_map.php:2919
+#: themes/aloxo/inc/vc_map.php:3029
+msgid "Select Category"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1973 themes/aloxo/inc/vc_map.php:2308
+#: themes/aloxo/inc/vc_map.php:2880 themes/aloxo/inc/vc_map.php:2969
+#: themes/aloxo/inc/vc_map.php:3075 themes/aloxo/inc/vc_map.php:3163
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:38
+msgid "Order by"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1976 themes/aloxo/inc/vc_map.php:2311
+#: themes/aloxo/inc/vc_map.php:2972 themes/aloxo/inc/vc_map.php:3078
+#: themes/aloxo/inc/vc_map.php:3166
+msgid "Date"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1978
+msgid "Comment"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1979 themes/aloxo/inc/vc_map.php:2311
+#: themes/aloxo/inc/vc_map.php:2972 themes/aloxo/inc/vc_map.php:3078
+#: themes/aloxo/inc/vc_map.php:3166 themes/aloxo/inc/vc_map.php:3253
+msgid "Random"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1980
+msgid "Select Orderby."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1984 themes/aloxo/inc/vc_map.php:2316
+#: themes/aloxo/inc/vc_map.php:2977 themes/aloxo/inc/vc_map.php:3084
+#: themes/aloxo/inc/vc_map.php:3171
+msgid "Order"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1987 themes/aloxo/inc/vc_map.php:2319
+#: themes/aloxo/inc/vc_map.php:2980 themes/aloxo/inc/vc_map.php:3087
+#: themes/aloxo/inc/vc_map.php:3174
+msgid "ASC"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1988 themes/aloxo/inc/vc_map.php:2319
+#: themes/aloxo/inc/vc_map.php:2980 themes/aloxo/inc/vc_map.php:3087
+#: themes/aloxo/inc/vc_map.php:3174
+msgid "DESC"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:1989
+msgid "Select Order."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2006
+msgid "Counter Box"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2016
+msgid "Counters Label"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2023
+msgid "Counters Value"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2040
+msgid "Social Link"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2052 themes/aloxo/inc/vc_map.php:2585
+#: themes/aloxo/inc/vc_map.php:2660
+msgid "Style 01"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2057
+msgid "Link Face"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2063
+msgid "Link Twitter"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2069
+msgid "Link Pinterest"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2075
+msgid "Link Google"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2081
+msgid "Link Dribble"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2087
+msgid "Link Linkedin"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2093
+msgid "Link Digg"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2099
+msgid "Link Youtube"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2110 themes/aloxo/inc/vc_map.php:2120
+#: themes/aloxo/inc/vc_map.php:2176
+msgid "Best Sellers"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2140 themes/aloxo/inc/vc_map.php:2196
+#: themes/aloxo/inc/vc_map.php:2251
+msgid "Slider"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2140 themes/aloxo/inc/vc_map.php:2196
+#: themes/aloxo/inc/vc_map.php:2251
+msgid "Lists"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2141 themes/aloxo/inc/vc_map.php:2197
+#: themes/aloxo/inc/vc_map.php:2252 themes/aloxo/inc/vc_map.php:2339
+#: themes/aloxo/inc/vc_map.php:3052
+msgid "Select Layout."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2166
+msgid "Top Product"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2183
+msgid "Feature"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2183
+msgid "Recent"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2183
+msgid "Best Seller"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2221 themes/aloxo/inc/vc_map.php:2231
+msgid "Top Rated Products"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2275 themes/aloxo/inc/vc_map.php:2284
+#: themes/aloxo/inc/vc_map.php:2694 themes/aloxo/inc/vc_map.php:2942
+#: themes/aloxo/inc/vc_map.php:3059 themes/aloxo/inc/vc_map.php:3144
+msgid "Products"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2295 themes/aloxo/inc/vc_map.php:2956
+#: themes/aloxo/inc/vc_map.php:3120 themes/aloxo/inc/vc_map.php:3150
+msgid "Number of products to show"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2304 themes/aloxo/inc/vc_map.php:2965
+#: themes/aloxo/inc/vc_map.php:3070 themes/aloxo/inc/vc_map.php:3159
+msgid "All Products"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2304 themes/aloxo/inc/vc_map.php:2965
+#: themes/aloxo/inc/vc_map.php:3070 themes/aloxo/inc/vc_map.php:3159
+msgid "Featured Products"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2304 themes/aloxo/inc/vc_map.php:2965
+#: themes/aloxo/inc/vc_map.php:3070 themes/aloxo/inc/vc_map.php:3159
+msgid "On-sale Products"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2311 themes/aloxo/inc/vc_map.php:2972
+#: themes/aloxo/inc/vc_map.php:3078 themes/aloxo/inc/vc_map.php:3166
+msgid "Price"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2311 themes/aloxo/inc/vc_map.php:2972
+#: themes/aloxo/inc/vc_map.php:3078 themes/aloxo/inc/vc_map.php:3166
+msgid "Sales"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2323 themes/aloxo/inc/vc_map.php:2984
+#: themes/aloxo/inc/vc_map.php:3092 themes/aloxo/inc/vc_map.php:3178
+msgid "Hide free products"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2329 themes/aloxo/inc/vc_map.php:2990
+#: themes/aloxo/inc/vc_map.php:3099 themes/aloxo/inc/vc_map.php:3184
+msgid "Show hidden products"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2338
+msgid "Layout-04"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2351
+msgid "View More Button Link"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2354
+msgid "Provide the link that will be applied to this Button."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2369 themes/aloxo/inc/vc_map.php:3128
+msgid "Number per view"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2386
+msgid "Text Rotator"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2397
+msgid ""
+"<h1>Super <span class=\"text_rotator\">Simple, Customizable, Light Weight, "
+"Easy</span> Text Rotator with Style</h1>"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2404
+msgid "spin"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2404
+msgid "fade"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2404
+msgid "flipCube"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2404
+msgid "flipUp"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2411 themes/aloxo/inc/vc_map.php:2457
+msgid "Row"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2416 themes/aloxo/inc/vc_map.php:2571
+#: themes/aloxo/inc/vc_map.php:2638 themes/aloxo/inc/vc_map.php:3214
+msgid "Content"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2417
+msgid "Place content elements inside the row"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2421
+msgid "Font Color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2423
+msgid "Select font color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2436 themes/aloxo/inc/vc_map.php:2476
+#: themes/aloxo/inc/admin/customizer-sections/header-layout.php:33
+msgid "Wide"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2437 themes/aloxo/inc/vc_map.php:2477
+#: themes/aloxo/inc/admin/customizer-sections/header-layout.php:32
+msgid "Boxed"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2438
+msgid "Mixing"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2443 themes/aloxo/inc/vc_map.php:2482
+msgid "Css"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2445 themes/aloxo/inc/vc_map.php:2484
+msgid "Design options"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2448
+msgid "Extra ID name"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2450
+msgid "Extra ID Name use on one page"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2566
+msgid "Accordion"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2572
+msgid "jQuery UI accordion"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2576 themes/aloxo/inc/vc_map.php:2643
+#: themes/aloxo/inc/vc_map.php:3219
+msgid "Widget title"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2578 themes/aloxo/inc/vc_map.php:2645
+#: themes/aloxo/inc/vc_map.php:3221
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2589
+msgid "Style 05"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2595
+msgid "Active tab"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2597
+msgid ""
+"Enter tab number to be active on load or enter false to collapse all tabs."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2601
+msgid "Allow collapsible all"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2603
+msgid "Select checkbox to allow all sections to be collapsible."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2604
+msgid "Allow"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2618
+msgid "Add accordion section"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2622
+msgid "Section 1"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2623
+msgid "Section 2"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2633
+msgid "Tabs"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2639
+msgid "Tabbed content"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2649
+msgid "Auto rotate tabs"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2651
+msgid "Disable"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2653
+msgid "Auto rotate tabs each X seconds."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2674
+msgid "Tab 1"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2675
+msgid "Tab 2"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2683
+msgid "Sale Off Products"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2698 themes/aloxo/inc/vc_map.php:3463
+msgid "Title color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2704 themes/aloxo/inc/vc_map.php:3470
+msgid "Title size"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2715
+msgid "Sub title"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2721
+msgid "Sub title color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2727
+msgid "Sub title size"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2738
+msgid "Button title"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2744
+msgid "Button title color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2750
+msgid "Button title size"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2759
+msgid "Button background color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2766
+msgid "Link"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2773
+msgid "Product image"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2797
+msgid "WC-Category"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2814
+msgid "Layout-06"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2875
+msgid "Categories"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2883
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:41
+msgid "Name"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2883
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:40
+msgid "Category Order"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2888
+msgid "Options"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2892
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:52
+msgid "Show post counts"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2893
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:57
+msgid "Show hierarchy"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2899
+msgid "Columns"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2912
+msgid "Items number per view"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2914
+msgid "10"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2933
+msgid "Products Slider"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:2947
+msgid "Border bottom title color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3021
+msgid "Category Product Showcase"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3047
+msgid "Category Top Image"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3107
+msgid "Slider Type"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3212
+msgid "Flickr Widget"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3215
+msgid "Image feed from your flickr account"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3225
+msgid "Flickr ID"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3228
+#, php-format
+msgid "To find your flickID visit %s."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3232
+msgid "Number of photos"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3235
+msgid "Number of photos."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3242
+msgid "User"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3243
+msgid "Group"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3245
+msgid "Photo stream type."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3249
+msgid "Display"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3252
+msgid "Latest"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3255
+msgid "Photo order."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3273
+msgid "Blue"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3274
+msgid "Light Blue"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3275
+msgid "Dark Blue"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3276
+msgid "Red"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3277
+msgid "Green"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3278
+msgid "Orange"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3279
+msgid "Dark"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3280
+msgid "Light"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3281
+msgid "Line Dark"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3282
+msgid "Line Light"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3286
+msgid "Same window"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3287
+msgid "New window"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3290
+msgid "Medium size"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3291
+msgid "Large"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3292
+msgid "Small"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3295
+msgid "Button"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3303 themes/aloxo/inc/vc_map.php:3307
+#: themes/aloxo/inc/shortcodes/vc_button.php:15
+msgid "Text on the button"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3308
+msgid "Text on the button."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3312
+msgid "URL (Link)"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3314
+msgid "Button link."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3318
+msgid "Target"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3325
+msgid "Color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3328
+msgid "Button color."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3333
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:12
+#: themes/aloxo/inc/admin/customizer-sections/header-mobile.php:12
+#: themes/aloxo/inc/admin/customizer-sections/header-submenu.php:12
+#: themes/aloxo/inc/admin/customizer-sections/header-topbar.php:36
+msgid "Background color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3337
+msgid "Choose color"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3358
+msgid "Size"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3361
+msgid "Button size."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3365
+msgid "Custom Margin"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3372
+msgid "Margin Button"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3391
+msgid "WooCommerce Sale Countdown"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3402
+msgid "Sale Products"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3404
+msgid "Enter Sale Products ID Example: 1, 2"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3413
+msgid "WooCommerce Product Search"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3419
+msgid "Style:"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3480
+msgid "Title font weight"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3485
+msgid "Bolder"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3486
+msgid "Lighter"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3487
+msgid "Initial"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3488
+msgid "Inherit"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3513
+msgid "Twitter name"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3520
+msgid "Consumer key"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3526
+msgid "Consumer secret"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3532
+msgid "Access token"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3538
+msgid "Access token secret"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3550
+msgid "Number post"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3558
+msgid "Select layout"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3582
+msgid "Aloxo: Google Map"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3589
+msgid "Address."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3592
+msgid "Enter your Address."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3596
+msgid "Latitude Position"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3598
+msgid "21.030138"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3599
+msgid "Find your latitude position at itouchmap dot com"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3603
+msgid "Longitude Position"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3605
+msgid "105.762467"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3606
+msgid "Find your longitude position at itouchmap dot com"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3610
+msgid "Upload Logo for map"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3613
+msgid ""
+"Upload images using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3617
+msgid "Map Zoom Value"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3619
+msgid "18"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3620
+msgid "Give Map Zoom value."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3634
+msgid "Aloxo: Shop Tivi"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3645
+msgid "Select Style."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3668
+msgid "Select the icon."
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3673
+msgid "Baby Shop Tivi"
+msgstr ""
+
+#: themes/aloxo/inc/vc_map.php:3678
+msgid "Baby Shop Tivi Link"
+msgstr ""
+
+#: themes/aloxo/inc/admin/generate-less-to-css.php:47
+#: themes/aloxo/inc/admin/generate-less-to-css.php:53
+msgid "Can't write the file \""
+msgstr ""
+
+#: themes/aloxo/inc/admin/plugins-require.php:199
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: themes/aloxo/inc/admin/plugins-require.php:212
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/display-archive.php:165
+msgid ""
+"<a href=\"http://codex.wordpress.org/Formatting_Date_and_Time\">Formatting "
+"Date and Time</a>"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-headeroptions.php:5
+msgid "Header Menu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-headeroptions.php:11
+msgid "Sticky Header on scroll"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-headeroptions.php:12
+msgid "Check to enable a fixed header when scrolling, uncheck to disable."
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-headeroptions.php:18
+msgid "When sticky header appear?"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-headeroptions.php:20
+msgid "Auto caculate"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-layout.php:4
+#: themes/aloxo/inc/admin/customizer-sections/header-layout.php:28
+msgid "Header Layout"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-layout.php:10
+msgid "Select a Layout"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-layout.php:39
+msgid "Header Position"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-layout.php:44
+msgid "Overlay"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-layout.php:45
+msgid "After Slider"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-layout.php:62
+msgid "Margin Top"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:6
+msgid "Main Menu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:20
+msgid "Color Border of Top Menu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:33
+#: themes/aloxo/inc/admin/customizer-sections/header-mobile.php:26
+#: themes/aloxo/inc/admin/customizer-sections/header-submenu.php:33
+#: themes/aloxo/inc/admin/customizer-sections/header-topbar.php:63
+msgid "Text color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:34
+#: themes/aloxo/inc/admin/customizer-sections/header-mobile.php:27
+msgid "Pick a text color for main menu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:39
+msgid "Text Hover color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:40
+msgid "Pick a text hover color for main menu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:46
+msgid "Background Text Hover/Active Color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:53
+msgid "Top Border Hover/Active Color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:60
+msgid "Top Border Color for Submenu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mainmenu.php:97
+msgid "Text  Hover Opacity"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mobile.php:6
+msgid "Mobile Menu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mobile.php:19
+#: themes/aloxo/inc/admin/customizer-sections/header-topbar.php:55
+msgid "Border color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mobile.php:32
+msgid "Text color active"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-mobile.php:33
+msgid "Pick a text active color for main menu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-rightdrawer.php:12
+msgid "Show or Hide Right Drawer"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-rightdrawer.php:20
+msgid "Right Drawer Background color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-rightdrawer.php:28
+msgid "Right Drawer Text Color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-rightdrawer.php:36
+msgid "Right Drawer Link Color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-rightdrawer.php:44
+msgid "Right Drawer Icon"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-rightdrawer.php:52
+msgid "Icon Right Drawer color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-submenu.php:6
+msgid "Sub Menu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-submenu.php:20
+msgid "Background color Hover"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-submenu.php:27
+msgid "Color Border of Sub Menu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-submenu.php:34
+msgid "Pick a text color for sub menu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-submenu.php:40
+msgid "Text color hover"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-submenu.php:41
+msgid "Pick a text color hover for sub menu"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topbar.php:5
+msgid "Top Header"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topbar.php:11
+msgid "Show Top Bar"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topbar.php:44
+msgid "Background opacity"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topbar.php:71
+msgid "Link color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topbar.php:82
+msgid "Width Top Left Sidebar"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topdrawer.php:4
+msgid "Top Drawer"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topdrawer.php:10
+msgid "Show Top Drawer"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topdrawer.php:25
+msgid "Top Drawer Background color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topdrawer.php:33
+msgid "Top Drawer Text color"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topdrawer.php:41
+msgid "Top Drawer Columns"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topdrawer.php:51
+msgid "Top Drawer Style"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header-topdrawer.php:70
+msgid "Drawer Top Open or Close"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header.php:49
+msgid "Logo"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header.php:54
+msgid "Header Logo"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header.php:57
+#: themes/aloxo/inc/admin/customizer-sections/woocommerce-archive.php:86
+#: themes/aloxo/inc/admin/customizer-sections/woocommerce-single.php:78
+msgid "Upload your logo"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header.php:63
+msgid "Sticky Logo"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header.php:67
+#: themes/aloxo/inc/admin/customizer-sections/header.php:86
+msgid "Upload your sticky logo"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header.php:72
+msgid "Width Logo"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header.php:82
+msgid "Favicon Logo"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/header.php:95
+msgid "Header"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:10
+msgid "Body"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:15
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:44
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:68
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:98
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:128
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:158
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:188
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:218
+msgid "Select Font"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:63
+msgid "H1"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:92
+msgid "H2"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:122
+msgid "H3"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:152
+msgid "H4"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:182
+msgid "H5"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/typography.php:212
+msgid "H6"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/woocommerce-archive.php:83
+#: themes/aloxo/inc/admin/customizer-sections/woocommerce-single.php:75
+msgid "Background Heading Image"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/woocommerce-setting.php:40
+msgid "Product List/Grid Default"
+msgstr ""
+
+#: themes/aloxo/inc/admin/customizer-sections/woocommerce-setting.php:50
+msgid "Grid Column"
+msgstr ""
+
+#: themes/aloxo/inc/admin/metabox-sections/share-this.php:7
+msgid "Number Related"
+msgstr ""
+
+#: themes/aloxo/inc/admin/metabox-sections/share-this.php:14
+msgid "Text Social"
+msgstr ""
+
+#: themes/aloxo/inc/admin/metabox-sections/share-this.php:19
+msgid "Face"
+msgstr ""
+
+#: themes/aloxo/inc/admin/metabox-sections/share-this.php:33
+#: themes/aloxo/inc/shortcodes/social_link/social_link.php:38
+msgid "Google"
+msgstr ""
+
+#: themes/aloxo/inc/header/header_1.php:137
+#: themes/aloxo/inc/header/header_2.php:155
+#: themes/aloxo/inc/header/header_3.php:141
+#: themes/aloxo/inc/header/header_4.php:103
+msgid "Search the site or press ESC to cancel."
+msgstr ""
+
+#: themes/aloxo/inc/header/menu_search.php:70
+msgid "Define your main navigation in"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/vc_tab.php:20
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/google_map/google_map.php:32
+msgid "My Address"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/portfolio/portfolio.php:173
+#: themes/aloxo/inc/shortcodes/wc-product-search/wc-product-search.php:51
+#: themes/aloxo/inc/shortcodes/wc-product-search/wc-product-search.php:55
+#: themes/aloxo/woocommerce/widgets/class-wc-search.php:70
+#: themes/aloxo/woocommerce/widgets/class-wc-search.php:74
+msgid "All"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/posts_display/posts_display.php:542
+#: themes/aloxo/inc/shortcodes/posts_display/posts_display.php:570
+#: themes/aloxo/inc/shortcodes/posts_display/posts_display.php:585
+#: themes/aloxo/inc/shortcodes/posts_display/posts_display.php:604
+msgid "Post by "
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/social_link/social_link.php:29
+msgid "Facebooks"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/social_link/social_link.php:35
+msgid "Pinterest"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/social_link/social_link.php:41
+msgid "Dribble"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/social_link/social_link.php:44
+msgid "Linkedin"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/social_link/social_link.php:47
+msgid "Digg"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/social_link/social_link.php:50
+msgid "Youtube"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/wc-category/wc-category.php:213
+#: themes/aloxo/inc/shortcodes/wc-category/wc-category.php:295
+#: themes/aloxo/inc/shortcodes/wc-product-search/wc-product-search.php:34
+#: themes/aloxo/woocommerce/widgets/class-wc-search.php:55
+msgid "No categories"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/wc-countdown/wc-countdown.php:65
+msgid "days"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/wc-countdown/wc-countdown.php:65
+msgid "hours"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/wc-countdown/wc-countdown.php:65
+msgid "minutes"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/wc-countdown/wc-countdown.php:65
+msgid "seconds"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/wc-countdown/wc-countdown.php:129
+#: themes/aloxo/inc/shortcodes/wc-countdown/wc-countdown.php:135
+msgid " to "
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/wc-countdown/wc-countdown.php:170
+#: themes/aloxo/inc/shortcodes/wc-countdown/wc-countdown.php:198
+msgid "sold"
+msgstr ""
+
+#: themes/aloxo/inc/shortcodes/wc-product-search/wc-product-search.php:62
+#: themes/aloxo/woocommerce/widgets/class-wc-search.php:81
+msgid "Search product..."
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:112
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:115
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:118
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:121
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:123
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:125
+msgid "404"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:130
+msgid "Asides"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:133
+msgid "Galleries"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:136
+msgid "Images"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:139
+msgid "Videos"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:142
+msgid "Quotes"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:145
+msgid "Links"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:148
+msgid "Statuses"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:151
+msgid "Audios"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:154
+msgid "Chats"
+msgstr ""
+
+#: themes/aloxo/inc/templates/archive-top.php:159
+msgid "Archives"
+msgstr ""
+
+#: themes/aloxo/inc/widgets/widgets.php:61
+#: themes/aloxo/woocommerce/widgets/class-wc-account.php:91
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-cart.php:147
+#: themes/aloxo/woocommerce/widgets/class-wc-wishlist.php:95
+msgid "Background Color"
+msgstr ""
+
+#: themes/aloxo/woocommerce/content-product-slider.php:87
+#: themes/aloxo/woocommerce/content-product.php:112
+#: themes/aloxo/woocommerce/content-product.php:159
+msgid "Compare"
+msgstr ""
+
+#: themes/aloxo/woocommerce/content-single-product-lightbox.php:113
+msgid "VIEW DETAIL"
+msgstr ""
+
+#: themes/aloxo/woocommerce/woocommerce.php:219
+msgid "No results"
+msgstr ""
+
+#: themes/aloxo/woocommerce/single-product/product-image.php:59
+#: themes/aloxo/woocommerce/single-product/product-thumbnails.php:43
+msgid "Placeholder"
+msgstr ""
+
+#: themes/aloxo/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-cart.php:47
+msgid "Cart"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-cart.php:128
+msgid "Title:"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-cart.php:135
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-price-filter.php:25
+msgid ""
+"Shows a price filter slider in a widget which lets you narrow down the list "
+"of shown products when viewing product categories."
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-price-filter.php:27
+msgid "WooCommerce Price Filter"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-price-filter.php:31
+msgid "Filter by price"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-price-filter.php:162
+msgid "Min price"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-price-filter.php:163
+msgid "Max price"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-price-filter.php:164
+msgid "Apply"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-price-filter.php:166
+msgid "Price:"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:26
+msgid "A list or dropdown of product categories."
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:28
+msgid "WooCommerce Product Categories"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:32
+msgid "Product Categories"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:47
+msgid "Show as dropdown"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:62
+msgid "Only show children of the current category"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:68
+msgid "Show icon of the category"
+msgstr ""
+
+#: themes/aloxo/woocommerce/widgets/class-wc-widget-product-categories.php:229
+msgid "No product categories exist."
+msgstr ""

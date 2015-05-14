@@ -1,0 +1,76 @@
+.wc_sale_off_product {
+	//width: 50%;
+	width:          100%;
+	text-transform: uppercase;
+	ul {
+		margin:     0px;
+		padding:    0px;
+		list-style: none;
+		height:     161px;
+		li {
+			border:  1px solid #e1e8ed;
+			display: table;
+			width:   100%;
+			height:  161px;
+			.image-product {
+				display:        table-cell;
+				vertical-align: middle;
+				text-align:     right;
+				img {
+					margin-right: 10px;
+				}
+			}
+			.item-product {
+ 				display:      table-cell;
+				width:        50%;
+				overflow:     hidden;
+ 				padding-left: 10px;
+
+				.product-name {
+					line-height:   30px;
+					margin-left:   30px;
+					padding-top:   30px;
+					display:       block;
+					white-space:   nowrap;
+					overflow:      hidden;
+					text-overflow: ellipsis;
+
+				}
+				.product-sale-off {
+					line-height: 15px;
+					font-family: "Roboto";
+					margin-left: 30px;
+					margin-top:  12px;
+					width:       100%;
+					display:     block;
+				}
+				.product-button {
+					line-height: 15px;
+					font-family: "Roboto";
+					margin-left: 30px;
+					margin-top:  12px;
+ 					display:     table;
+					padding:     10px 20px;
+
+					&:hover {
+ 						background-color: #383838 !important;
+						color:            #fff !important;
+						border:           none !important;
+						padding:          12px 22px;
+					}
+				}
+ 			}
+
+			.item-image {
+				float:   right;
+				width:   22%;
+				padding: 30px;
+			}
+
+			img {
+ 			}
+
+		}
+
+	}
+ }

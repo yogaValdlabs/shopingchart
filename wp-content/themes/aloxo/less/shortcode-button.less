@@ -1,0 +1,157 @@
+/**
+ * 
+ * @author kien16
+ */
+.sc-btn,
+.button,
+input[type="submit"],
+button{
+	color: @white;
+     background-image: none;
+     padding: 0 25px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    height: 36px;
+    line-height: 36px;
+    .rounded;
+    .transition;
+    display: inline-block;
+    margin: 5px;
+}
+.main-header-search-form-input,.mc4wp-form{
+	input[type="submit"]{
+        line-height: 100%;
+		width: 85px;
+		padding: 10px;
+        float: right;
+        margin: 0px;
+        margin-left: 3px;
+	}
+}
+.sc-btn.small,
+.button.small,
+input[type="submit"].small {
+    padding: 5px 10px;
+    height: auto;
+    line-height: 1.8;
+}
+.sc-btn.big,
+.button.big,
+input[type="submit"].big {
+    padding: 15px 45px;
+    height: auto;
+    line-height: 1.8;
+}
+.sc-btn.blue,
+.button.blue,
+input[type="submit"].blue {
+    background: #009eca;
+}
+.sc-btn.lightblue,
+.button.lightblue,
+input[type="submit"].lightblue {
+    background: #58c5c0;
+}
+.sc-btn.darkblue,
+.button.darkblue,
+input[type="submit"].darkblue {
+    background: #42555c;
+}
+.sc-btn.red,
+.button.red,
+input[type="submit"].red {
+    background: #f7827e;
+}
+.sc-btn.green,
+.button.green,
+input[type="submit"].green {
+  background: #7cc576;
+}
+.sc-btn.orange,
+.button.orange,
+input[type="submit"].orange {
+  background: #f6ba70;
+}
+.sc-btn.dark,
+.button.dark,
+input[type="submit"].dark {
+  background: #333333;
+}
+.sc-btn.light,
+.button.light,
+input[type="submit"].light {
+  background: #dddddd;
+  color: @black;
+}
+.sc-btn.light:hover,
+.button.light:hover,
+input[type="submit"].light:hover {
+  color: @white;
+}
+.sc-btn.linelight,
+.button.linelight,
+input[type="submit"].linelight {
+  border: 1px solid @white;
+  background: rgba(0, 0, 0, 0.1);
+  color: @white;
+	.rounded(0);
+}
+.sc-btn.linedark,
+.button.linedark,
+input[type="submit"].linedark {
+  border: 1px solid @black;
+  background: transparent;
+  color: @black;
+	.rounded(0);
+}
+.sc-btn:hover,
+.button:hover,
+input[type="submit"]:hover {
+  background: @black;
+  color: @white;
+}
+.sc-btn.sc-disabled,
+.button.sc-disabled,
+input[type="submit"].sc-disabled,
+.sc-btn:disabled,
+.button:disabled,
+input[type="submit"]:disabled {
+  background: #f2f2f2;
+  color: #b3b3b3;
+  cursor: no-drop;
+}
+
+select {
+	border: 1px solid #e6e6e6;
+	padding: 6px 10px;
+  /*background-image: url(images/caret.png);*/
+	background-position: calc(~" 100% - 15px ") center;
+	background-repeat: no-repeat;
+	position: relative;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	text-indent: 0.01px;
+	text-overflow: '';
+	cursor: pointer;
+}
+.sc-btn i {
+    margin: 0 5px 0 0;
+}
+
+.sc-btn {
+    >span {
+        display: table;
+        height: 100%;
+        >span {
+            display: table-cell;
+            vertical-align: middle;
+        }
+        i {
+            display: table-cell;
+            vertical-align: middle;
+            padding-right: 12px;
+            font-size: 21px;
+        }
+    }
+}
